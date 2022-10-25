@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OwnChatApp</string>
+
+    <string name="api_key">nr4myt7q2ckn</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiam9zZXBhYmxvZnIifQ.PaH1biE2HLu37o0wCBR6bu2VdbvcV6bm0wz8LtvxOXo</string>
+<!-- josepablofr -->
+</resources>
